@@ -1,0 +1,22 @@
+
+public class Ejemplo1 {
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee joan=new Employee();
+		joan.setName("joan");
+System.out.println(joan.getName());
+	}
+
+}
